@@ -1,4 +1,4 @@
-# Attentions-Papers-Vision
+# Vision-Attentions-Papers
 
 ![image](https://github.com/MenghaoGuo/Awesome-Vision-Attentions/blob/main/imgs/attention_cls_graph.pdf)
 
