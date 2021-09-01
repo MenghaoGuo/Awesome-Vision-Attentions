@@ -1,1 +1,1 @@
-# Awesome-Vision-Attentions
+# Awesome-VisualAttentions-Papers
