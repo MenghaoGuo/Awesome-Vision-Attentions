@@ -1,6 +1,6 @@
 # Vision-Attention-Papers
 
-## This repo is built for our work: Attention Mechanism in Vision: A Survey
+## This repo is built for our oncoming work: Attention Mechanism in Vision: A Survey
 
 ![image](https://github.com/MenghaoGuo/Awesome-Vision-Attentions/blob/main/imgs/timeline.png)
 
