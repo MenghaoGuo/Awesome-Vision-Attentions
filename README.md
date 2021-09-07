@@ -12,8 +12,8 @@
   * [Spatial attention](#spatial-attention)
   * [Temporal attention](#temporal-attention)
   * [Branch attention](#branch-attention)
-  * [Channel \& Spatial attention](#channel----spatial-attention)
-  * [Spatial \& Temporal attention](#spatial----temporal-attention)
+  * [Channel \& Spatial attention](#channel \& spatial-attention)
+  * [Spatial \& Temporal attention](#spatial \& temporal-attention)
 
 
 🔥 (citations > 200) 
@@ -34,5 +34,3 @@
 ## Spatial \& Temporal attention
 
 
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
