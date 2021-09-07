@@ -12,8 +12,8 @@
   * [Spatial attention](#spatial-attention)
   * [Temporal attention](#temporal-attention)
   * [Branch attention](#branch-attention)
-  * [Channel \& Spatial attention](#channel\&spatial-attention)
-  * [Spatial \& Temporal attention](#spatial\&temporal-attention)
+  * [Channel \& Spatial attention](#channelspatial-attention)
+  * [Spatial \& Temporal attention](#spatialtemporal-attention)
 
 
 🔥 (citations > 200) 
@@ -29,8 +29,8 @@
 
 ## Branch attention 
 
-## Channel\&Spatial attention
+## ChannelSpatial attention
 
-## Spatial\&Temporal attention
+## SpatialTemporal attention
 
 
