@@ -24,7 +24,7 @@
 
 ## Channel attention
 
-* Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507)   🔥 
+* Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507), (PAMI2019 version) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701503)  🔥 
 * Image superresolution using very deep residual channel attention networks (ECCV2018) [pdf](https://arxiv.org/pdf/1807.02758)   🔥 
 * Context encoding for semantic segmentation(CVPR2018) [pdf](https://arxiv.org/pdf/1803.08904)   🔥 
 * Spatio-temporal channel correlation networks for action classification(ECCV2018)  [pdf](https://arxiv.org/pdf/1806.07754)
