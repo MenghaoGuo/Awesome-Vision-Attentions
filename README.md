@@ -1,4 +1,4 @@
-# This repo is built for paper: Attention Mechanisms in Vision: A Survey  [paper](https://arxiv.org/abs/2111.07624)
+# This repo is built for paper: Attention Mechanisms in Computer Vision: A Survey  [paper](https://arxiv.org/abs/2111.07624)
 
 
 ![image](https://github.com/MenghaoGuo/Awesome-Vision-Attentions/blob/main/imgs/fuse.png)
