@@ -79,6 +79,7 @@
 - Relation-aware global attention for person re-identification(CVPR2020) [pdf](https://arxiv.org/pdf/1904.02998)
 - Segmentation transformer: Object-contextual representations for semantic segmentation(ECCV2020) [pdf](https://arxiv.org/pdf/1909.11065)   🔥 
 - Spatial pyramid based graph reasoning for semantic segmentation(CVPR2020) [pdf](https://arxiv.org/pdf/2003.10211)
+- Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation(CVPR2020) [pdf](https://arxiv.org/pdf/2004.04581.pdf)
 - End-to-end object detection with transformers(ECCV2020) [pdf](https://arxiv.org/pdf/2005.12872)   🔥 
 - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling(CVPR2020) [pdf](https://arxiv.org/pdf/2003.00492)
 - Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers(CVPR2021) [pdf](https://arxiv.org/pdf/2012.15840)
