@@ -24,7 +24,7 @@
 
 ## Channel attention
 
-* Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507)   🔥 
+* Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507), (PAMI2019 version) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701503)  🔥 
 * Image superresolution using very deep residual channel attention networks (ECCV2018) [pdf](https://arxiv.org/pdf/1807.02758)   🔥 
 * Context encoding for semantic segmentation(CVPR2018) [pdf](https://arxiv.org/pdf/1803.08904)   🔥 
 * Spatio-temporal channel correlation networks for action classification(ECCV2018)  [pdf](https://arxiv.org/pdf/1806.07754)
@@ -79,6 +79,7 @@
 - Relation-aware global attention for person re-identification(CVPR2020) [pdf](https://arxiv.org/pdf/1904.02998)
 - Segmentation transformer: Object-contextual representations for semantic segmentation(ECCV2020) [pdf](https://arxiv.org/pdf/1909.11065)   🔥 
 - Spatial pyramid based graph reasoning for semantic segmentation(CVPR2020) [pdf](https://arxiv.org/pdf/2003.10211)
+- Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation(CVPR2020) [pdf](https://arxiv.org/pdf/2004.04581.pdf)
 - End-to-end object detection with transformers(ECCV2020) [pdf](https://arxiv.org/pdf/2005.12872)   🔥 
 - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling(CVPR2020) [pdf](https://arxiv.org/pdf/2003.00492)
 - Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers(CVPR2021) [pdf](https://arxiv.org/pdf/2012.15840)
