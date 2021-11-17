@@ -24,8 +24,8 @@
 
 ## Channel attention
 
-* Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507), (PAMI2019 version) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701503)  🔥 
-* Image superresolution using very deep residual channel attention networks (ECCV2018) [pdf](https://arxiv.org/pdf/1807.02758)   🔥 
+* Squeeze-and-Excitation Networks(CVPR2018) [pdf](https://arxiv.org/pdf/1709.01507), (PAMI2019 version) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701503)  🔥 
+* Image superresolution using very deep residual channel attention networks(ECCV2018) [pdf](https://arxiv.org/pdf/1807.02758)   🔥 
 * Context encoding for semantic segmentation(CVPR2018) [pdf](https://arxiv.org/pdf/1803.08904)   🔥 
 * Spatio-temporal channel correlation networks for action classification(ECCV2018)  [pdf](https://arxiv.org/pdf/1806.07754)
 * Global second-order pooling convolutional networks(CVPR2019) [pdf](https://arxiv.org/pdf/1811.12006)
@@ -39,26 +39,26 @@
 
 ## Spatial attention
 
-- Recurrent models of visual attention(NIPS2014), [pdf](https://arxiv.org/pdf/1406.6247)   🔥 
+- Recurrent models of visual attention(NeurIPS2014), [pdf](https://arxiv.org/pdf/1406.6247)   🔥 
 - Show, attend and tell: Neural image caption generation with visual attention(PMLR2015) [pdf](https://arxiv.org/pdf/1502.03044)   🔥 
-- Draw: A recurrent neural network for image generation(ICML 2015) [pdf](https://arxiv.org/pdf/1502.04623)   🔥 
-- Spatial transformer networks(NIPS2015) [pdf](https://arxiv.org/pdf/1506.02025)   🔥 
+- Draw: A recurrent neural network for image generation(ICML2015) [pdf](https://arxiv.org/pdf/1502.04623)   🔥 
+- Spatial transformer networks(NeurIPS2015) [pdf](https://arxiv.org/pdf/1506.02025)   🔥 
 - Multiple object recognition with visual attention(ICLR2015) [pdf](https://arxiv.org/pdf/1412.7755)   🔥 
-- Action recognition using visual attention(arXiv 2015) [pdf](https://arxiv.org/pdf/1511.04119)   🔥 
-- Videolstm convolves, attends and flows for action recognition(arXiv 2016) [pdf](https://arxiv.org/pdf/1607.01794)   🔥 
+- Action recognition using visual attention(arXiv2015) [pdf](https://arxiv.org/pdf/1511.04119)   🔥 
+- Videolstm convolves, attends and flows for action recognition(arXiv2016) [pdf](https://arxiv.org/pdf/1607.01794)   🔥 
 - Look closer to see better: Recurrent attention convolutional neural network for fine-grained image recognition(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)   🔥 
 - Learning multi-attention convolutional neural network for fine-grained image recognition(ICCV2017) [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)   🔥 
 - Diversified visual attention networks for fine-grained object classification(TMM2017) [pdf](https://arxiv.org/pdf/1606.08572)   🔥 
-- Attentional pooling for action recognition(NIPS2017) [pdf](https://arxiv.org/pdf/1711.01467)   🔥 
+- Attentional pooling for action recognition(NeurIPS2017) [pdf](https://arxiv.org/pdf/1711.01467)   🔥 
 - Non-local neural networks(CVPR2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
 - Attentional shapecontextnet for point cloud recognition(CVPR2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Attentional_ShapeContextNet_for_CVPR_2018_paper.pdf) 
 - Relation networks for object detection(CVPR2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)   🔥 
-- a2-nets: Double attention networks(NIPS2018) [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
+- a2-nets: Double attention networks(NeurIPS2018) [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
 - Attention-aware compositional network for person re-identification(CVPR2018) [pdf](https://arxiv.org/pdf/1805.03344)   🔥 
 - Tell me where to look: Guided attention inference network(CVPR2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
 - Pedestrian alignment network for large-scale person re-identification(TCSVT2018) [pdf](https://arxiv.org/pdf/1707.00408)   🔥 
 - Learn to pay attention(ICLR2018) [pdf](https://arxiv.org/pdf/1804.02391.pdf)   🔥
-- Attention U-Net: Learning Where to Look for the Pancreas [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
+- Attention U-Net: Learning Where to Look for the Pancreas(MIDL2018) [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
 - Psanet: Point-wise spatial attention network for scene parsing(ECCV2018) [pdf](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.html)   🔥 
 - Self attention generative adversarial networks(ICML2019) [pdf](https://arxiv.org/pdf/1805.08318)   🔥 
 - Attentional pointnet for 3d-object detection in point clouds(CVPRW2019) [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)
@@ -107,9 +107,9 @@
 
 ## Branch attention 
 
-- Training very deep networks, (NIPS 2015) [pdf](https://arxiv.org/pdf/1507.06228.pdf) 🔥
+- Training very deep networks, (NeurIPS 2015) [pdf](https://arxiv.org/pdf/1507.06228.pdf) 🔥
 - Selective kernel networks,(CVPR 2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Selective_Kernel_Networks_CVPR_2019_paper.pdf) 🔥
-- CondConv: Conditionally Parameterized Convolutions for Efficient Inference (NIPS 2019) [pdf](https://arxiv.org/pdf/1904.04971.pdf)
+- CondConv: Conditionally Parameterized Convolutions for Efficient Inference (NeurIPS 2019) [pdf](https://arxiv.org/pdf/1904.04971.pdf)
 - Dynamic convolution: Attention over convolution kernels (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Dynamic_Convolution_Attention_Over_Convolution_Kernels_CVPR_2020_paper.pdf)
 - ResNest: Split-attention networks  (arXiv 2020) [pdf](https://arxiv.org/pdf/2004.08955.pdf) 🔥
 
