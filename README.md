@@ -57,6 +57,8 @@
 - Attention-aware compositional network for person re-identification(CVPR2018) [pdf](https://arxiv.org/pdf/1805.03344)   🔥 
 - Tell me where to look: Guided attention inference network(CVPR2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
 - Pedestrian alignment network for large-scale person re-identification(TCSVT2018) [pdf](https://arxiv.org/pdf/1707.00408)   🔥 
+- Learn to pay attention(ICLR2018) [pdf](https://arxiv.org/pdf/1804.02391.pdf)   🔥
+- Attention U-Net: Learning Where to Look for the Pancreas [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
 - Psanet: Point-wise spatial attention network for scene parsing(ECCV2018) [pdf](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.html)   🔥 
 - Self attention generative adversarial networks(ICML2019) [pdf](https://arxiv.org/pdf/1805.08318)   🔥 
 - Attentional pointnet for 3d-object detection in point clouds(CVPRW2019) [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)
