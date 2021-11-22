@@ -96,7 +96,7 @@
 - An empirical study of training self-supervised vision transformers(ICCV 2021) [pdf](https://arxiv.org/pdf/2104.02057)
 - Segformer: Simple and efficient design for semantic segmentation with transformers(arxiv 2021) [pdf](https://arxiv.org/pdf/2105.15203)
 - Beit: Bert pre-training of image transformers(arxiv 2021) [pdf](https://arxiv.org/pdf/2106.08254)
-- Beyond selfattention: External attention using two linear layers for visual tasks(arxiv 2021) [pdf](https://arxiv.org/pdf/2105.02358)
+- Beyond Self-attention: External attention using two linear layers for visual tasks(arxiv 2021) [pdf](https://arxiv.org/pdf/2105.02358)
 - Query2label: A simple transformer way to multi-label classification(arxiv 2021) [pdf](https://arxiv.org/pdf/2107.10834)
 - Transformer in transformer(arxiv 2021) [pdf](https://arxiv.org/pdf/2103.00112)
 
