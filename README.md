@@ -88,6 +88,7 @@
 - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling(CVPR2020) [pdf](https://arxiv.org/pdf/2003.00492)
 - Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers(CVPR2021) [pdf](https://arxiv.org/pdf/2012.15840)
 - An image is worth 16x16 words: Transformers for image recognition at scale(ICLR2021) [pdf](https://arxiv.org/pdf/2010.11929)   🔥 
+- Is Attention Better Than Matrix Decomposition? (ICLR2021) [pdf](https://arxiv.org/abs/2109.04553) 
 - An empirical study of training selfsupervised vision transformers(CVPR2021) [pdf](https://arxiv.org/pdf/2104.02057)
 - Ocnet: Object context network for scene parsing(IJCV 2021) [pdf](https://arxiv.org/pdf/1809.00916)   🔥 
 - Point transformer(ICCV 2021) [pdf](https://arxiv.org/pdf/2012.09164)
