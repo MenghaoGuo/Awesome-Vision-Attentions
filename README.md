@@ -1,5 +1,7 @@
 # This repo is built for paper: Attention Mechanisms in Computer Vision: A Survey  [paper](https://arxiv.org/abs/2111.07624)
 
+## 介绍该论文的中文版博客 [链接](https://mp.weixin.qq.com/s/0iOZ45NTK9qSWJQlcI3_kQ )
+
 
 ![image](https://github.com/MenghaoGuo/Awesome-Vision-Attentions/blob/main/imgs/fuse.png)
 
