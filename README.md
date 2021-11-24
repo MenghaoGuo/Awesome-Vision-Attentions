@@ -52,7 +52,7 @@
 - Look closer to see better: Recurrent attention convolutional neural network for fine-grained image recognition(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)   🔥 
 - Learning multi-attention convolutional neural network for fine-grained image recognition(ICCV2017) [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)   🔥 
 - Diversified visual attention networks for fine-grained object classification(TMM2017) [pdf](https://arxiv.org/pdf/1606.08572)   🔥 
-- High-Order Attention Models for Visual Question Answering [pdf](https://arxiv.org/pdf/1711.04323)
+- High-Order Attention Models for Visual Question Answering (NIPS2017) [pdf](https://arxiv.org/pdf/1711.04323)
 - Attentional pooling for action recognition(NeurIPS2017) [pdf](https://arxiv.org/pdf/1711.01467)   🔥 
 - Non-local neural networks(CVPR2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
 - Attentional shapecontextnet for point cloud recognition(CVPR2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Attentional_ShapeContextNet_for_CVPR_2018_paper.pdf) 
