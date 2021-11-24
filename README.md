@@ -153,6 +153,6 @@
 - Multi-granularity reference-aided attentive feature aggregation for video-based person re-identification (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.12224.pdf)
 - Read: Reciprocal attention discriminator for image-to-video re-identification, (ECCV 2020) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)
 - Decoupled spatial-temporal transformer for video inpainting (ArXiv 2021) [pdf](https://arxiv.org/pdf/2104.06637.pdf)
-- Towards Coherent Visual Storytelling with Ordered Image Attention [pdf](https://arxiv.org/pdf/2108.02180)
+- Towards Coherent Visual Storytelling with Ordered Image Attention, (ArXiv 2021) [pdf](https://arxiv.org/pdf/2108.02180)
 
 
