@@ -146,12 +146,13 @@
 - An end-to-end spatio-temporal attention model for human action recognition from skeleton data(AAAI 2017) [pdf](https://arxiv.org/pdf/1611.06067.pdf) 🔥
 - Diversity regularized spatiotemporal attention for video-based person re-identification (ArXiv 2018) 🔥
 - Interpretable spatio-temporal attention for video action recognition (ICCVW 2019) [pdf](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HVU/Meng_Interpretable_Spatio-Temporal_Attention_for_Video_Action_Recognition_ICCVW_2019_paper.pdf) 
-- A Simple Baseline for Audio-Visual Scene-Aware Dialog (CVPR 2019) [pdf](https://arxiv.org/abs/1904.05876v1)
+- A Simple Baseline for Audio-Visual Scene-Aware Dialog (CVPR 2019) [pdf](https://arxiv.org/pdf/1904.05876v1.pdf)
 - Hierarchical lstms with adaptive attention for visual captioning, (TPAMI 2020) [pdf](https://arxiv.org/pdf/1812.11004.pdf)
 - Stat: Spatial-temporal attention mechanism for video captioning, (TMM 2020) [pdf_link](https://ieeexplore.ieee.org/abstract/document/8744407)
 - Gta: Global temporal attention for video action understanding (ArXiv 2020) [pdf](https://arxiv.org/pdf/2012.08510.pdf)
 - Multi-granularity reference-aided attentive feature aggregation for video-based person re-identification (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.12224.pdf)
 - Read: Reciprocal attention discriminator for image-to-video re-identification, (ECCV 2020) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)
 - Decoupled spatial-temporal transformer for video inpainting (ArXiv 2021) [pdf](https://arxiv.org/pdf/2104.06637.pdf)
+- Towards Coherent Visual Storytelling with Ordered Image Attention [pdf](https://arxiv.org/pdf/2108.02180)
 
 
