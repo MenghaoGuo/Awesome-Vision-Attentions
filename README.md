@@ -52,6 +52,7 @@
 - Look closer to see better: Recurrent attention convolutional neural network for fine-grained image recognition(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)   🔥 
 - Learning multi-attention convolutional neural network for fine-grained image recognition(ICCV2017) [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)   🔥 
 - Diversified visual attention networks for fine-grained object classification(TMM2017) [pdf](https://arxiv.org/pdf/1606.08572)   🔥 
+- High-Order Attention Models for Visual Question Answering (NIPS2017) [pdf](https://arxiv.org/pdf/1711.04323)
 - Attentional pooling for action recognition(NeurIPS2017) [pdf](https://arxiv.org/pdf/1711.01467)   🔥 
 - Non-local neural networks(CVPR2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
 - Attentional shapecontextnet for point cloud recognition(CVPR2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Attentional_ShapeContextNet_for_CVPR_2018_paper.pdf) 
@@ -66,6 +67,7 @@
 - Self attention generative adversarial networks(ICML2019) [pdf](https://arxiv.org/pdf/1805.08318)   🔥 
 - Attentional pointnet for 3d-object detection in point clouds(CVPRW2019) [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)
 - Co-occurrent features in semantic segmentation(CVPR2019) [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Co-Occurrent_Features_in_Semantic_Segmentation_CVPR_2019_paper.pdf)
+- Factor Graph Attention(CVPR2019) [pdf](https://arxiv.org/pdf/1904.05880)
 - Attention augmented convolutional networks(ICCV2019) [pdf](https://arxiv.org/pdf/1904.09925)   🔥 
 - Local relation networks for image recognition(ICCV2019) [pdf](https://arxiv.org/pdf/1904.11491)
 - Latentgnn: Learning efficient nonlocal relations for visual recognition(ICML2019) [pdf](https://arxiv.org/pdf/1905.11634)
@@ -144,11 +146,13 @@
 - An end-to-end spatio-temporal attention model for human action recognition from skeleton data(AAAI 2017) [pdf](https://arxiv.org/pdf/1611.06067.pdf) 🔥
 - Diversity regularized spatiotemporal attention for video-based person re-identification (ArXiv 2018) 🔥
 - Interpretable spatio-temporal attention for video action recognition (ICCVW 2019) [pdf](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HVU/Meng_Interpretable_Spatio-Temporal_Attention_for_Video_Action_Recognition_ICCVW_2019_paper.pdf) 
+- A Simple Baseline for Audio-Visual Scene-Aware Dialog (CVPR 2019) [pdf](https://arxiv.org/pdf/1904.05876v1.pdf)
 - Hierarchical lstms with adaptive attention for visual captioning, (TPAMI 2020) [pdf](https://arxiv.org/pdf/1812.11004.pdf)
 - Stat: Spatial-temporal attention mechanism for video captioning, (TMM 2020) [pdf_link](https://ieeexplore.ieee.org/abstract/document/8744407)
 - Gta: Global temporal attention for video action understanding (ArXiv 2020) [pdf](https://arxiv.org/pdf/2012.08510.pdf)
 - Multi-granularity reference-aided attentive feature aggregation for video-based person re-identification (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.12224.pdf)
 - Read: Reciprocal attention discriminator for image-to-video re-identification, (ECCV 2020) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)
 - Decoupled spatial-temporal transformer for video inpainting (ArXiv 2021) [pdf](https://arxiv.org/pdf/2104.06637.pdf)
+- Towards Coherent Visual Storytelling with Ordered Image Attention, (ArXiv 2021) [pdf](https://arxiv.org/pdf/2108.02180)
 
 
