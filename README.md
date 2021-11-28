@@ -156,3 +156,17 @@
 - Towards Coherent Visual Storytelling with Ordered Image Attention, (ArXiv 2021) [pdf](https://arxiv.org/pdf/2108.02180)
 
 
+## Citation
+If it is helpful for your work, please cite this paper:
+```
+@misc{guo2021attention_survey,
+      title={Attention Mechanisms in Computer Vision: A Survey}, 
+      author={Meng-Hao Guo and Tian-Xing Xu and Jiang-Jiang Liu and Zheng-Ning Liu and Peng-Tao Jiang and Tai-Jiang Mu and Song-Hai Zhang and Ralph R. Martin and Ming-Ming Cheng and Shi-Min Hu},
+      year={2021},
+      eprint={2111.07624},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
