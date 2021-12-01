@@ -20,7 +20,7 @@
 
 
 
-* TODO : Code about different attention mechanisms based on Jittor fremework will be released gradually.
+* TODO : Code about different attention mechanisms based on [Jittor](https://github.com/Jittor/jittor) will be released gradually.
 * TODO :  [Code]() link will come soon.
 * TODO :  collect more related papers. Contributions are welcome. 
 
