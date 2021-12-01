@@ -19,11 +19,13 @@
   * [Spatial \& Temporal attention](#spatialtemporal-attention)
 
 
-🔥 (citations > 200)  
 
-* TODO : Code about different attention mechanisms will come soon.
+* TODO : Code about different attention mechanisms based on Jittor fremework will be released gradually.
 * TODO :  [Code]() link will come soon.
 * TODO :  collect more related papers. Contributions are welcome. 
+
+🔥 (citations > 200)  
+
 
 ## Channel attention
 
