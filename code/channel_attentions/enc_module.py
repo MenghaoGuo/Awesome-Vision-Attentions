@@ -1,3 +1,4 @@
+# Context encoding for semantic segmentation (CVPR 2018)
 import jittor as jt
 from jittor import nn, init
 
@@ -27,7 +28,7 @@ class Encoding(nn.Module):
             expanded_x - reshaped_codewords).pow(2).sum(dim=3)
         return scaled_l2_norm
 
-    @ staticmethod
+    @staticmethod
     def aggregate(assignment_weights, x, codewords):
         num_codes, channels = codewords.size()
         reshaped_codewords = codewords.view((1, 1, num_codes, channels))
