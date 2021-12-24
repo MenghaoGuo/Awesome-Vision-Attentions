@@ -1,4 +1,4 @@
-# Second-Order Attention Network for Single Image Super-Resolution
+# Second-Order Attention Network for Single Image Super-Resolution (CVPR 2019)
 import jittor as jt
 from jittor import nn, Function
 
