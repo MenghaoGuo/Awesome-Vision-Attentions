@@ -1,6 +1,5 @@
 import jittor as jt
 import jittor.nn as nn
-from jittor import init
 
 
 class DANetHead(nn.Module):
