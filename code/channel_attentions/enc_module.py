@@ -74,9 +74,9 @@ class EncModule(nn.Module):
 
 
 def main():
-    attention_blcok = EncModule(64, 32)
+    attention_block = EncModule(64, 32)
     input = jt.rand([4, 64, 32, 32])
-    output = attention_blcok(input)
+    output = attention_block(input)
     print(input.size(), output.size())
 
 

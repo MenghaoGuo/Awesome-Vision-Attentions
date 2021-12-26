@@ -1,5 +1,6 @@
-import jittor as jt 
+import jittor as jt
 import jittor.nn as nn
+
 
 class SELayer(nn.Module):
     def __init__(self, channel, reduction=16):
@@ -20,12 +21,11 @@ class SELayer(nn.Module):
 
 
 def main():
-    attention_blcok = SELayer(64)
+    attention_block = SELayer(64)
     input = jt.rand([4, 64, 32, 32])
-    output = attention_blcok(input)
-    print (input.size(), output.size())
+    output = attention_block(input)
+    print(input.size(), output.size())
+
 
 if __name__ == '__main__':
     main()
-
-

@@ -55,9 +55,9 @@ class GlobalContextBlock(nn.Module):
 
 
 def main():
-    attention_blcok = GlobalContextBlock(64, 1/4)
+    attention_block = GlobalContextBlock(64, 1/4)
     input = jt.rand([4, 64, 32, 32])
-    output = attention_blcok(input)
+    output = attention_block(input)
     print(input.size(), output.size())
 
 
