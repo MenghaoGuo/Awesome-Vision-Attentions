@@ -1,6 +1,7 @@
-import jittor as jt 
+import jittor as jt
 import jittor.nn as nn
 from jittor import init
+
 
 class DANetHead(nn.Module):
 
@@ -8,23 +9,24 @@ class DANetHead(nn.Module):
         super(DANetHead, self).__init__()
         inter_channels = in_channels // 4
         self.conv5a = nn.Sequential(nn.Conv(in_channels, inter_channels, 3, padding=1, bias=False),
-                                   nn.BatchNorm(inter_channels),
-                                   nn.ReLU())
+                                    nn.BatchNorm(inter_channels),
+                                    nn.ReLU())
 
         self.conv5c = nn.Sequential(nn.Conv(in_channels, inter_channels, 3, padding=1, bias=False),
-                                   nn.BatchNorm(inter_channels),
-                                   nn.ReLU())
+                                    nn.BatchNorm(inter_channels),
+                                    nn.ReLU())
 
         self.sa = PAM_Module(inter_channels)
         self.sc = CAM_Module(inter_channels)
         self.conv51 = nn.Sequential(nn.Conv(inter_channels, inter_channels, 3, padding=1, bias=False),
-                                   nn.BatchNorm(inter_channels),
-                                   nn.ReLU())
+                                    nn.BatchNorm(inter_channels),
+                                    nn.ReLU())
         self.conv52 = nn.Sequential(nn.Conv(inter_channels, inter_channels, 3, padding=1, bias=False),
-                                   nn.BatchNorm(inter_channels),
-                                   nn.ReLU())
+                                    nn.BatchNorm(inter_channels),
+                                    nn.ReLU())
 
-        self.conv8 = nn.Sequential(nn.Dropout(0.1, False), nn.Conv(inter_channels, out_channels, 1))
+        self.conv8 = nn.Sequential(nn.Dropout(
+            0.1, False), nn.Conv(inter_channels, out_channels, 1))
 
     def execute(self, x):
 
@@ -45,17 +47,22 @@ class DANetHead(nn.Module):
 
 class PAM_Module(nn.Module):
     """ Position attention module"""
-    #Ref from SAGAN
+    # Ref from SAGAN
+
     def __init__(self, in_dim):
         super(PAM_Module, self).__init__()
         self.chanel_in = in_dim
 
-        self.query_conv = nn.Conv(in_channels=in_dim, out_channels=in_dim//8, kernel_size=1)
-        self.key_conv = nn.Conv(in_channels=in_dim, out_channels=in_dim//8, kernel_size=1)
-        self.value_conv = nn.Conv(in_channels=in_dim, out_channels=in_dim, kernel_size=1)
+        self.query_conv = nn.Conv(
+            in_channels=in_dim, out_channels=in_dim//8, kernel_size=1)
+        self.key_conv = nn.Conv(
+            in_channels=in_dim, out_channels=in_dim//8, kernel_size=1)
+        self.value_conv = nn.Conv(
+            in_channels=in_dim, out_channels=in_dim, kernel_size=1)
         self.gamma = jt.zeros(1)
 
         self.softmax = nn.Softmax(dim=-1)
+
     def execute(self, x):
         """
             inputs :
@@ -65,7 +72,8 @@ class PAM_Module(nn.Module):
                 attention: B X (HxW) X (HxW)
         """
         m_batchsize, C, height, width = x.size()
-        proj_query = self.query_conv(x).reshape(m_batchsize, -1, width*height).transpose(0, 2, 1)
+        proj_query = self.query_conv(x).reshape(
+            m_batchsize, -1, width*height).transpose(0, 2, 1)
         proj_key = self.key_conv(x).reshape(m_batchsize, -1, width*height)
         energy = nn.bmm(proj_query, proj_key)
         attention = self.softmax(energy)
@@ -80,12 +88,14 @@ class PAM_Module(nn.Module):
 
 class CAM_Module(nn.Module):
     """ Channel attention module"""
+
     def __init__(self, in_dim):
         super(CAM_Module, self).__init__()
         self.chanel_in = in_dim
         self.gamma = jt.zeros(1)
-        self.softmax  = nn.Softmax(dim=-1)
-    def execute(self,x):
+        self.softmax = nn.Softmax(dim=-1)
+
+    def execute(self, x):
         """
             inputs :
                 x : input feature maps( B X C X H X W)
@@ -107,13 +117,13 @@ class CAM_Module(nn.Module):
         out = self.gamma*out + x
         return out
 
+
 def main():
-    attention_blcok = DANetHead(64, 64)
+    attention_block = DANetHead(64, 64)
     input = jt.rand([4, 64, 32, 32])
-    output = attention_blcok(input)
-    print (input.size(), output.size())
+    output = attention_block(input)
+    print(input.size(), output.size())
+
 
 if __name__ == '__main__':
     main()
-
-
