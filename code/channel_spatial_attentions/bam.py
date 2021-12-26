@@ -1,3 +1,4 @@
+# Bam: Bottleneck attention module(BMVC 2018)
 import jittor as jt
 from jittor import nn
 

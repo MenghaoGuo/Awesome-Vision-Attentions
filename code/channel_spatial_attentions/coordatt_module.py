@@ -1,3 +1,4 @@
+# Coordinate attention for efficient mobile network design (CVPR 2021)
 import jittor as jt
 from jittor import nn
 
