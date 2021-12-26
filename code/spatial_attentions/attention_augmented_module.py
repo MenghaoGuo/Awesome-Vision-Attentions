@@ -129,9 +129,9 @@ class AugmentedConv(nn.Module):
 
 
 def main():
-    attention_blcok = AugmentedConv(64, 64, 3, 40, 4, 4, True)
+    attention_block = AugmentedConv(64, 64, 3, 40, 4, 4, True)
     input = jt.rand([4, 64, 32, 32])
-    output = attention_blcok(input)
+    output = attention_block(input)
     print(input.size(), output.size())
 
 

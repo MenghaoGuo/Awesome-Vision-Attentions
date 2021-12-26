@@ -32,9 +32,9 @@ class DoubleAtten(nn.Module):
 
 
 def main():
-    attention_blcok = DoubleAtten(64)
+    attention_block = DoubleAtten(64)
     input = jt.rand([4, 64, 32, 32])
-    output = attention_blcok(input)
+    output = attention_block(input)
     jt.grad(output, input)
     print(input.size(), output.size())
 
