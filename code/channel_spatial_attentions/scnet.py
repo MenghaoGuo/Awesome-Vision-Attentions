@@ -1,3 +1,4 @@
+# Improving convolutional networks with self-calibrated convolutions (CVPR 2020)
 import jittor as jt
 from jittor import nn
 from matplotlib.pyplot import grid
