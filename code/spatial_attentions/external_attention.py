@@ -1,3 +1,4 @@
+# Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks (CVMJ2021)
 import jittor as jt
 from jittor import nn
 
