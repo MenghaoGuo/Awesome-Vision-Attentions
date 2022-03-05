@@ -3,6 +3,23 @@
 ## 介绍该论文的中文版博客 [链接](https://mp.weixin.qq.com/s/0iOZ45NTK9qSWJQlcI3_kQ )
 
 
+
+## Citation
+
+If it is helpful for your work, please cite this paper:
+
+```
+@misc{guo2021attention_survey,
+      title={Attention Mechanisms in Computer Vision: A Survey}, 
+      author={Meng-Hao Guo and Tian-Xing Xu and Jiang-Jiang Liu and Zheng-Ning Liu and Peng-Tao Jiang and Tai-Jiang Mu and Song-Hai Zhang and Ralph R. Martin and Ming-Ming Cheng and Shi-Min Hu},
+      year={2021},
+      eprint={2111.07624},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
 ![image](https://github.com/MenghaoGuo/Awesome-Vision-Attentions/blob/main/imgs/fuse.png)
 
 
@@ -157,18 +174,3 @@
 - Read: Reciprocal attention discriminator for image-to-video re-identification (ECCV 2020) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)
 - Decoupled spatial-temporal transformer for video inpainting (arXiv 2021) [pdf](https://arxiv.org/pdf/2104.06637.pdf)
 - Towards Coherent Visual Storytelling with Ordered Image Attention (arXiv 2021) [pdf](https://arxiv.org/pdf/2108.02180)
-
-## Citation
-
-If it is helpful for your work, please cite this paper:
-
-```
-@misc{guo2021attention_survey,
-      title={Attention Mechanisms in Computer Vision: A Survey}, 
-      author={Meng-Hao Guo and Tian-Xing Xu and Jiang-Jiang Liu and Zheng-Ning Liu and Peng-Tao Jiang and Tai-Jiang Mu and Song-Hai Zhang and Ralph R. Martin and Ming-Ming Cheng and Shi-Min Hu},
-      year={2021},
-      eprint={2111.07624},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
