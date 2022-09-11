@@ -47,7 +47,7 @@ class ChannelGate(nn.Module):
         y_max = self.max_pool(x).view(b, c)
         y_max = self.fc_max(y_max).view(b, c, 1, 1)
 
-        y = self.sigmoid(y_avg + y_avg)
+        y = self.sigmoid(y_avg + y_max)
         return x * y.expand_as(x)
 
 
@@ -81,12 +81,12 @@ class SpatialGate(nn.Module):
 class CBAM(nn.Module):
     def __init__(self, gate_channels, reduction_ratio=16):
         super(CBAM, self).__init__()
-        self.ChannelGate = ChannelGate(gate_channels, reduction_ratio)
-        self.SpatialGate = SpatialGate()
+        self.channel_gate = ChannelGate(gate_channels, reduction_ratio)
+        self.spatial_gate = SpatialGate()
 
     def execute(self, x):
-        x_out = self.ChannelGate(x)
-        x_out = self.SpatialGate(x_out)
+        x_out = self.channel_gate(x)
+        x_out = self.spatial_gate(x_out)
         return x_out
 
 
