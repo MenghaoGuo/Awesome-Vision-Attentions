@@ -9,13 +9,13 @@
 If it is helpful for your work, please cite this paper:
 
 ```
-@misc{guo2021attention_survey,
-      title={Attention Mechanisms in Computer Vision: A Survey}, 
-      author={Meng-Hao Guo and Tian-Xing Xu and Jiang-Jiang Liu and Zheng-Ning Liu and Peng-Tao Jiang and Tai-Jiang Mu and Song-Hai Zhang and Ralph R. Martin and Ming-Ming Cheng and Shi-Min Hu},
-      year={2021},
-      eprint={2111.07624},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{guo2022attention,
+  title={Attention mechanisms in computer vision: A survey},
+  author={Guo, Meng-Hao and Xu, Tian-Xing and Liu, Jiang-Jiang and Liu, Zheng-Ning and Jiang, Peng-Tao and Mu, Tai-Jiang and Zhang, Song-Hai and Martin, Ralph R and Cheng, Ming-Ming and Hu, Shi-Min},
+  journal={Computational Visual Media},
+  pages={1--38},
+  year={2022},
+  publisher={Springer}
 }
 ```
 
