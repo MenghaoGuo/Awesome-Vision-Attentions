@@ -138,7 +138,7 @@ If it is helpful for your work, please cite this paper:
 - Dynamic convolution: Attention over convolution kernels (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Dynamic_Convolution_Attention_Over_Convolution_Kernels_CVPR_2020_paper.pdf)
 - ResNest: Split-attention networks (arXiv 2020) [pdf](https://arxiv.org/pdf/2004.08955.pdf) 🔥
 
-## ChannelSpatial attention
+## Channel+Spatial attention
 
 - Residual attention network for image classification (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf) 🔥
 - SCA-CNN: spatial and channel-wise attention in convolutional networks for image captioning (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf) 🔥
@@ -160,7 +160,7 @@ If it is helpful for your work, please cite this paper:
 - Coordinate attention for efficient mobile network design (CVPR 2021) [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)
 - Simam: A simple, parameter-free attention module for convolutional neural networks (ICML 2021) [pdf](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)
 
-## SpatialTemporal attention
+## Spatial+Temporal attention
 
 - An end-to-end spatio-temporal attention model for human action recognition from skeleton data (AAAI 2017) [pdf](https://arxiv.org/pdf/1611.06067.pdf) 🔥
 - Diversity regularized spatiotemporal attention for video-based person re-identification (arXiv 2018) 🔥
